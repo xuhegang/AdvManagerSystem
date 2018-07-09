@@ -1,0 +1,231 @@
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.csprojResolveAssemblyReference.cache
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\ApplicationInsights.config
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csc.exe
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csc.exe.config
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csc.rsp
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csi.exe
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csi.rsp
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.AppContext.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.Collections.Immutable.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.IO.FileSystem.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.Reflection.Metadata.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\vbc.exe
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\vbc.exe.config
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\vbc.rsp
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\VBCSCompiler.exe
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\roslyn\VBCSCompiler.exe.config
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\AdvManagerSystem.dll.config
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\AdvManagerSystem.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\AdvManagerSystem.pdb
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Antlr3.Runtime.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.SqlServer.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.Agent.Intercept.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.DependencyCollector.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.Web.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.WindowsServer.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.ApplicationInsights.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Core.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Cookies.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Facebook.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Google.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.OAuth.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Twitter.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Web.Infrastructure.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Newtonsoft.Json.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Owin.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Helpers.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Mvc.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Optimization.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Razor.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Deployment.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Razor.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\WebGrease.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Helpers.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Mvc.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Optimization.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Razor.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Deployment.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Razor.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Antlr3.Runtime.pdb
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Newtonsoft.Json.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.SqlServer.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Core.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Facebook.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Cookies.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.OAuth.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Google.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Twitter.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.ApplicationInsights.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.DependencyCollector.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.WindowsServer.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.Web.xml
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\EntityFramework.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.dll
+\\filestore.soton.ac.uk\users\hx1n17\mydocuments\visual studio 2017\Projects\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.pdb
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\ApplicationInsights.config
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csc.exe
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csc.exe.config
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csc.rsp
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csi.exe
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\csi.rsp
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.AppContext.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\vbc.exe
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\vbc.exe.config
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\vbc.rsp
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\VBCSCompiler.exe
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\AdvManagerSystem.dll.config
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\AdvManagerSystem.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\AdvManagerSystem.pdb
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Antlr3.Runtime.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.SqlServer.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.Web.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.ApplicationInsights.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Newtonsoft.Json.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Owin.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Helpers.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Mvc.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Optimization.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Razor.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Deployment.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Razor.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\WebGrease.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Helpers.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Mvc.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Optimization.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.Razor.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Deployment.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\System.Web.WebPages.Razor.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Antlr3.Runtime.pdb
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Newtonsoft.Json.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\EntityFramework.SqlServer.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.ApplicationInsights.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\Microsoft.AI.Web.xml
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\EntityFramework.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.csprojResolveAssemblyReference.cache
+D:\app\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.csproj.CoreCompileInputs.cache
+D:\app\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.dll
+D:\app\AdvManagerSystem\AdvManagerSystem\obj\Debug\AdvManagerSystem.pdb

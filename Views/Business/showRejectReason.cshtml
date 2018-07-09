@@ -1,0 +1,24 @@
+﻿@model AdvManagerSystem.Models.Image
+@{
+    ViewBag.Title = "showRejectReason";
+}
+<style>
+    dd img{
+        width:300px;
+    }
+</style>
+
+<h2>showRejectReason</h2>
+
+<dl>
+    <dt>Imageid</dt>
+    <dd>@Model.ImageID</dd>
+    <dt>Image</dt>
+    <dd><img class="img-responsive center-block" src="data:@Model.ImageMimeType;base64, @Convert.ToBase64String(Model.ImageData)" /></dd>
+    <dt>Mydescription</dt>
+    <dd>@Model.Description</dd>
+    <dt>Reject reason</dt>
+    <dd>@Model.Feedback</dd>
+</dl>
+
+<a href="javascript:history.back(-1)"> Go back</a>

@@ -1,0 +1,91 @@
+﻿@model AdvManagerSystem.Models.Image[]
+@{
+    ViewBag.Title = "Landlordaction";
+    int displayCount = 0;
+}
+<style>
+    td img{
+        width:200px;
+        margin:0 auto;
+        display:block;
+    }
+    img{
+        width:500px;
+    }
+</style>
+<body>
+    <h1>Upload Advertisement</h1>
+    <form class="form-horizontal uploadform" enctype="multipart/form-data" method="post" action="/Business/UploadImage/">
+        <input type="hidden" name="pid" value="@ViewData["pid"]" />
+        <!-- <input type="file" name="SelectedImage" />
+         <textarea name="description"></textarea>-->
+        <div class="form-group">
+            <label for="inputfile">Please select an image</label>
+            <input type="file" name="SelectedImage" id="inputfile">
+            <p class="help-block">Please select a image.</p>
+        </div>
+        <div class="form-group">
+            <textarea name="description" class="form-control" rows="3"></textarea>
+        </div>
+        <div class="form-group" id="viewupload">
+        </div>
+        <div class="form-group">
+            <div>
+                <button type="submit" class="btn btn-default">Submit</button>
+            </div>
+        </div>
+    </form>
+    <hr />
+
+    <div class="table-responsive">
+        <table class="table table-bordered" id="adv">
+            <caption>My Advertisements</caption>
+            <tr>
+                <th>
+                    Number
+                </th>
+                <th>
+                    Image
+                </th>
+                <th>
+                    Status
+                </th>
+            </tr>
+            @if (Model.Length != 0)
+            {
+                foreach(AdvManagerSystem.Models.Image m in Model)
+                {
+                    <tr>
+                        @if (m.Status == "unchecked")
+                        {
+                            { displayCount++; }
+                           <td>@displayCount</td>
+                            <td style="display:none">@m.ImageID</td>
+                            <td> <img class="img-responsive" src="data:@m.ImageMimeType;base64, @Convert.ToBase64String(m.ImageData)" /></td>
+                            <td>unchecked</td>
+                        }
+                        @if (m.Status == "approve")
+                        {
+                            { displayCount++; }
+                            <td>@displayCount</td>
+                            <td style="display:none">@m.ImageID</td>
+                            <td> <img class="img-responsive" src="data:@m.ImageMimeType;base64, @Convert.ToBase64String(m.ImageData)" /></td>
+                            <td>approved</td>
+                        }
+                        @if (m.Status == "reject")
+                        {
+                            { displayCount++; }
+                            <td>@displayCount</td>
+                            <td style="display:none">@m.ImageID</td>
+                            <td> <img class="img-responsive" src="data:@m.ImageMimeType;base64, @Convert.ToBase64String(m.ImageData)" /></td>
+                            <td><a href="javascript:;">rejected(see details)</a></td>
+                        }
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+
+</body>
+
+<script type="text/javascript" src="~/Scripts/LandlordJs.js"></script>

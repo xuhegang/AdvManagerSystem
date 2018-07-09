@@ -1,0 +1,47 @@
+﻿@model AdvManagerSystem.Models.Image[]
+@{
+    ViewBag.Title = "Studentaction";
+    int number = 0;
+}
+<style>
+    td img{
+        width:300px;
+    }
+    caption{
+        text-align:left;
+    }
+    .table-responsive{
+        padding-top:20px;
+    }
+    </style>
+
+
+<div class="table-responsive">
+    <table class="table table-bordered" id="adv">
+        <caption>All Advertisements</caption>
+        <tr>
+            <th>
+                Number
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+                Description
+            </th>
+</tr>
+        @if (Model.Length != 0)
+            {
+                foreach (AdvManagerSystem.Models.Image m in Model)
+                {
+                <tr>
+                    @{number++;}
+                    <td style="display:none">@m.ImageID</td>
+                    <td>@number</td>
+                    <td> <img class="img-responsive center-block" src="data:@m.ImageMimeType;base64, @Convert.ToBase64String(m.ImageData)" /></td>
+                    <td>@m.Description</td>
+                </tr>
+            }
+        }
+    </table>
+</div>
